@@ -1,0 +1,44 @@
+/*.App {*/
+/*    padding: 30px;*/
+/*    display: flex;*/
+
+
+/*}*/
+
+/*.App > div {*/
+/*    margin-right: 50px;*/
+/*}*/
+
+/*.error {*/
+/*    border: red 3px solid;*/
+/*}*/
+
+/*.error-message {*/
+/*    color: red;*/
+/*}*/
+
+.opacity {
+    opacity: 50%;
+}
+
+/*.filtered-button {*/
+/*    background-color: cornflowerblue;*/
+/*}*/
+
+/*.borderTodolistBlock {*/
+/*    border: 1px solid black;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+/*.borderTodolistBlock h3 {*/
+/*    text-align: center;*/
+/*}*/
+
+/*.filtered-button-position {*/
+/*    text-align: center;*/
+/*}*/
+
+/*
+.filtered-button-position button {
+    margin-right: 2px;
+}*/
