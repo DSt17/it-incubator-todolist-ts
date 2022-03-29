@@ -33,7 +33,6 @@ export const Todolist = React.memo((props: todolistProsType) => {
         props.addTask(title, props.id)
     }, [props.addTask, props.id])
 
-
     const filteredAll = useCallback(() => props.changeFilter("all", props.id),[props.id,props.changeFilter])
     const filteredActive = useCallback(() => props.changeFilter("active", props.id),[props.id,props.changeFilter])
     const filteredCompleted = useCallback(() => props.changeFilter("completed", props.id),[props.id,props.changeFilter])
